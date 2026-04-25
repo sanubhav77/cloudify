@@ -2,8 +2,8 @@ import { useCallback, useMemo, useRef, useState } from "react";
 
 const API_BASE = import.meta.env.VITE_API_BASE_URL || "http://localhost:8000";
 
-const sampleArgs = `--source-path /Users/aritraraychaudhuri/Downloads/BasicApp \
---gcp-project cloudify-486706 \
+const sampleArgs = `--source-path /path/to/your/app \
+--gcp-project your-gcp-project-id \
 --mode automated`;
 
 const AGENTS = [

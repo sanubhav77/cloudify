@@ -56,6 +56,8 @@ migration_report.md
 **/service-account*.json
 **/credentials*.json
 *-key.json
+# Service-account JSONs named after the GCP project (e.g. cloudify-486706-*.json)
+cloudify-*.json
 
 # Testing
 .pytest_cache/
