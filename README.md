@@ -153,7 +153,7 @@ pytest tests/integration -v
 
 ## Built at TartanHacks 2026
 
-Built by Anmol Sahu, Sanath Mahesh Kumar, Aritra Ray, and Manav Somani.
+Built by Anmol Sahu, Anubhav Sharma, Sanath Mahesh Kumar, Aritra Ray, and Manav Somani.
 
 ## License
 
